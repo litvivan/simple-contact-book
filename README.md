@@ -14,7 +14,7 @@ Some parts could be enhanced or can have better detalization to be more complete
 
 ## Demo
 
-Demo page - https://dev.yeeah.ru/simple-contactbook
+Demo page - http://dev.yeeah.ru/simple-contactbook
 
 ## License
 
