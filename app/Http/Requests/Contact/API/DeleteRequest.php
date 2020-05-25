@@ -44,11 +44,6 @@ class DeleteRequest extends FormRequest
     public function rules()
     {
         return [
-            'first_name'        => 'string',
-            'last_name'         => 'string|nullable',
-            'patronymic_name'   => 'string|nullable',
-            'phone'             => 'string',
-            'is_favorite'       => 'boolean|nullable',
         ];
     }
 }
