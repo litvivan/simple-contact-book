@@ -28,5 +28,6 @@
     "Add new contact":              "Добавить новый контакт",
 
     "Contact successfully created":         "Контакт успешно создан",
-    "Contact successfully saved":         "Контакт успешно сохранён"
+    "Contact successfully saved":           "Контакт успешно сохранён",
+    "Contact successfully deleted":         "Контакт успешно удалён"
 }
