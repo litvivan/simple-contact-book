@@ -12,6 +12,10 @@ Has basic features:
 
 Some parts could be enhanced or can have better detalization to be more complete.
 
+## Not impletented:
+- consistent API error responses
+- phone field validation
+
 ## Demo
 
 Demo page - http://dev.yeeah.ru
