@@ -1,0 +1,32 @@
+{
+    "Forgot Your Password?":        "Забыли свой пароль?",
+    "Remember Me":                  "Запомнить меня",
+    "Confirm password":             "Подтвердите пароль",
+    "Reset Password":               "Сброс пароля",
+    "Send Password Reset Link":     "Сбросить пароль",
+    "Please confirm your password before continuing.": "Пожалуйста, подтвердите свой пароль перед тем, как продолжить.",
+
+    "Edit":                         "Редактировать",
+    "Save":                         "Сохранить",
+    "Create":                       "Создать",
+    "Delete":                       "Удалить",
+    "Cancel":                       "Отмена",
+
+    "There are no contacts yet":    "Пока нет ни одного контакта",
+
+    "Contact list":                 "Список контактов",
+    "Contact information":          "Информация о контакте",
+    "Full name":                    "ФИО",
+    "Phone":                        "Телефон",
+    "Mark as favorite":             "Добавить в избранные",
+    "Unmark favorite":              "Удалить из избранных",
+    "Last name":                    "Фамилия",
+    "First name":                   "Имя",
+    "Patronymic name":              "Отчество",
+
+    "Edit contact":                 "Редактировать контакт",
+    "Add new contact":              "Добавить новый контакт",
+
+    "Contact successfully created":         "Контакт успешно создан",
+    "Contact successfully saved":         "Контакт успешно сохранён"
+}
